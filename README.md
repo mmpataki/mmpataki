@@ -5,7 +5,7 @@ Engineer at Salesforce (previously Informatica), based in Bengaluru. I debug lar
 **Things I've built**
 
 - [inferj](https://github.com/mmpataki/inferj): GPT-2 inference in a single Java file, no dependencies, with its own tensor library and KV cache
-- [car](https://github.com/mmpataki/car): distributed log processing and analysis; a fork runs in production with ~1K users
+- [car](https://github.com/mmpataki/car): distributed log processing and analysis
 - [sdfs](https://github.com/mmpataki/sdfs): small distributed filesystem and job scheduler, run on 70 nodes
 - [tensor.benchmark](https://github.com/mmpataki/tensor.benchmark): code for my blog series "Taking JVM on a performance ride"
 - [active-trace-ids](https://github.com/mmpataki/active-trace-ids): demo implementation of the active-trace-ids idea from my blog
